@@ -32,3 +32,15 @@
 .agrandar:hover {
     transform: scale(1.02);
 }
+
+.icon-border {
+    border: 2px solid #a6a5a55f;
+    border-radius: 45%;
+    transition: 0.3s;
+}
+
+.icon-border:hover {
+    border-color: rgb(255, 249, 249);
+    color: #fff;
+    transform: scale(1.1);
+}
