@@ -1,0 +1,8 @@
+.hover_Text_White_Red {
+    color: #fff !important;
+    transition: all 0.5s ease-in;
+}
+
+.hover_Text_White_Red:hover {
+    color: #f00 !important;
+}
