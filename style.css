@@ -1,6 +1,5 @@
 .line_break {
     white-space: pre-line;
-    
 }
 
 .hover_Text_White_Red {
@@ -18,4 +17,13 @@
     background-size: cover;
     width: 100%;
     height: 90vh;
+}
+
+.bg_dark_black {
+    background-color: #11111143;
+}
+
+.card_small {
+    width: 15rem;
+    height: auto;
 }
